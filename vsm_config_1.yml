@@ -1,4 +1,4 @@
-name: testB
+name: testingRepositoryYML
 
 trigger:
   - main
