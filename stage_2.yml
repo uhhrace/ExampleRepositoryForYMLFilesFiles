@@ -1,3 +1,5 @@
+name: Stage 2
+
 trigger:
   branches:
     exclude:
