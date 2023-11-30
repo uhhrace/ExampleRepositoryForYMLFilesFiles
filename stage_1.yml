@@ -1,9 +1,9 @@
-
+name: Stage 1
 trigger: none
 
 schedules:
   - cron: "0 15 * * Fri"
-    displayName: Friday 8am PT Trigger (CENTERED)
+    displayName: Friday 8am PT Trigger
     branches:
       include:
         - master
